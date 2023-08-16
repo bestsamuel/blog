@@ -2,7 +2,7 @@ title: Sam Best
 author: Samuel Best
 url: https://samuelbest.net # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  Hello! My name is Sam Best, and I'm currently pursuing a degree in Computer Science as a junior at George Mason University. From a young age, I have always been interested in engineering and computing. This passion has driven my academic pursuit of a degree in computer science, with the aspiration of becoming a software engineer in the future. Beyond programming and technology, I lead an active lifestyle by playing ice hockey, working out, and skiing. On this website, you can view my projects and track my development as a programmer over the years, as well as read insightful blogs on all things tech!
 
 permalink: /:slug
 
